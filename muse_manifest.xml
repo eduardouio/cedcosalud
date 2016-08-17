@@ -1,0 +1,194 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://cedcosalud.com" ftp_rootfolder="/" exportTarget="FTP" domain="www.cedcosalud.com" resolutions="1x" timestamp="1459457174585">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="3981753046" ref="medicina-ocupacional:gracias:plan-diabetes:index:promociones:especialidades:contacto:servicios"/>
+    <file name="medicina-ocupacional.css" crc="312302841" ref="medicina-ocupacional"/>
+    <file name="gracias.css" crc="3937391807" ref="gracias"/>
+    <file name="plan-diabetes.css" crc="4066275280" ref="plan-diabetes"/>
+    <file name="index.css" crc="415053095" ref="index"/>
+    <file name="promociones.css" crc="3802390180" ref="promociones"/>
+    <file name="especialidades.css" crc="197289067" ref="especialidades"/>
+    <file name="contacto.css" crc="358533407" ref="contacto"/>
+    <file name="servicios.css" crc="49265080" ref="servicios"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="museutils.js" crc="3790713428" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="whatinput.js" crc="84559013" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="webpro.js" crc="329496574" ref="contacto"/>
+    <file name="form_check.php" crc="3805695515" ref="contacto"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contacto"/>
+    <file name="form_process.php" crc="54267062" ref="contacto"/>
+    <file name="form-u1109.php" crc="4209692184" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="287662308" seo="true" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u282-5.png" crc="3904185328" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="blank.gif" crc="4208392903" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u166.png" crc="350107881" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u166-r.png" crc="294136595" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u166-a.png" crc="460963091" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u174.png" crc="3965391991" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u174-r.png" crc="231841667" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u174-a.png" crc="3835055024" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u215.png" crc="488073897" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u215-r.png" crc="196933710" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u215-a.png" crc="4192348023" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u233.png" crc="113730529" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u233-r.png" crc="4279073986" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u233-a.png" crc="31469818" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="cedco01.png" crc="502152712" seo="true" ref="index"/>
+    <file name="u417-25.png" crc="4114886814" ref="index"/>
+    <file name="cedco02.png" crc="472615178" seo="true" ref="index"/>
+    <file name="u2439-4.png" crc="3997468068" ref="index"/>
+    <file name="u1859-6.png" crc="3789432442" ref="index"/>
+    <file name="u1860-6.png" crc="54453268" ref="index"/>
+    <file name="u1861-6.png" crc="462960948" ref="index"/>
+    <file name="facebook.png" crc="4191373637" seo="true" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="dir.png" crc="4048848787" seo="true" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="ail.png" crc="345186850" seo="true" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="telf.png" crc="4025643390" seo="true" ref="index:especialidades:servicios:contacto:promociones:plan-diabetes:medicina-ocupacional:gracias"/>
+    <file name="u799-39.png" crc="3799100546" ref="especialidades"/>
+    <file name="cedco05.png" crc="4049624340" seo="true" ref="especialidades"/>
+    <file name="u1638-4.png" crc="4292158732" ref="especialidades"/>
+    <file name="u812-25.png" crc="320319761" ref="especialidades"/>
+    <file name="cedco10.jpg" crc="142618676" seo="true" ref="especialidades"/>
+    <file name="u1656-4.png" crc="4153043432" ref="especialidades"/>
+    <file name="u832-43.png" crc="263167929" ref="especialidades"/>
+    <file name="8.png" crc="3900500563" seo="true" ref="especialidades"/>
+    <file name="u1647-4.png" crc="4292158732" ref="especialidades"/>
+    <file name="u2421-4.png" crc="3997468068" ref="especialidades"/>
+    <file name="u1907-6.png" crc="3789432442" ref="especialidades"/>
+    <file name="u1908-6.png" crc="54453268" ref="especialidades"/>
+    <file name="u1909-6.png" crc="462960948" ref="especialidades"/>
+    <file name="cedco08.png" crc="3720797" seo="true" ref="servicios"/>
+    <file name="u1610-4.png" crc="4292158732" ref="servicios"/>
+    <file name="u852-37.png" crc="4260098170" ref="servicios"/>
+    <file name="u858-46.png" crc="4058335338" ref="servicios"/>
+    <file name="5.png" crc="476664052" seo="true" ref="servicios"/>
+    <file name="u1620-4.png" crc="4292158732" ref="servicios"/>
+    <file name="cedco14.jpg" crc="63790053" seo="true" ref="servicios"/>
+    <file name="u1232-23.png" crc="3978861611" ref="servicios"/>
+    <file name="u2048-4.png" crc="4292158732" ref="servicios"/>
+    <file name="u2424-4.png" crc="3997468068" ref="servicios"/>
+    <file name="u1934-6.png" crc="3789432442" ref="servicios"/>
+    <file name="u1935-6.png" crc="54453268" ref="servicios"/>
+    <file name="u1936-6.png" crc="462960948" ref="servicios"/>
+    <file name="u793-4.png" crc="251633641" ref="contacto"/>
+    <file name="u1145-17.png" crc="4005826432" ref="contacto"/>
+    <file name="u1145-17-r.png" crc="372490379" ref="contacto"/>
+    <file name="u1145-17-m.png" crc="349489017" ref="contacto"/>
+    <file name="u1145-17-fs.png" crc="3852940375" ref="contacto"/>
+    <file name="cedcp02.png" crc="35196843" seo="true" ref="contacto"/>
+    <file name="u2427-4.png" crc="3997468068" ref="contacto"/>
+    <file name="u1958-6.png" crc="3789432442" ref="contacto"/>
+    <file name="u1959-6.png" crc="54453268" ref="contacto"/>
+    <file name="u1960-6-a.png" crc="462960948" ref="contacto"/>
+    <file name="u1369-5.png" crc="3957438226" ref="promociones"/>
+    <file name="promo01.jpg" crc="4209644234" seo="true" ref="promociones"/>
+    <file name="u1403-21.png" crc="163143412" ref="promociones"/>
+    <file name="u1668-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u1568-19.png" crc="4118846792" ref="promociones"/>
+    <file name="promo04.jpg" crc="4202955051" seo="true" ref="promociones"/>
+    <file name="u1695-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u1463-23.png" crc="242491353" ref="promociones"/>
+    <file name="promo02.jpg" crc="4037971048" seo="true" ref="promociones"/>
+    <file name="u1677-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u1526-34.png" crc="3920244492" ref="promociones"/>
+    <file name="promo03.jpg" crc="202574538" seo="true" ref="promociones"/>
+    <file name="u1686-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u1731-23.png" crc="80745447" ref="promociones"/>
+    <file name="promo05.jpg" crc="4058514142" seo="true" ref="promociones"/>
+    <file name="u1736-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u1784-19.png" crc="137935679" ref="promociones"/>
+    <file name="promo06.jpg" crc="3775453799" seo="true" ref="promociones"/>
+    <file name="u1779-4.png" crc="4292158732" ref="promociones"/>
+    <file name="promo07.jpg" crc="4204008412" seo="true" ref="promociones"/>
+    <file name="u2085-31.png" crc="3974410871" ref="promociones"/>
+    <file name="u2082-4.png" crc="4292158732" ref="promociones"/>
+    <file name="promo08.jpg" crc="3836760484" seo="true" ref="promociones"/>
+    <file name="u2161-23.png" crc="3921006538" ref="promociones"/>
+    <file name="u2153-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u2263-22.png" crc="348027890" ref="promociones"/>
+    <file name="promo10.jpg" crc="432843358" seo="true" ref="promociones"/>
+    <file name="u2260-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u2224-18.png" crc="4051405297" ref="promociones"/>
+    <file name="promo11.jpg" crc="436501050" seo="true" ref="promociones"/>
+    <file name="u2217-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u2110-21.png" crc="3923532783" ref="promociones"/>
+    <file name="promo09.jpg" crc="4183629218" seo="true" ref="promociones"/>
+    <file name="u2114-4.png" crc="4292158732" ref="promociones"/>
+    <file name="promo12.jpg" crc="429795543" seo="true" ref="promociones"/>
+    <file name="u2314-31.png" crc="3867004467" ref="promociones"/>
+    <file name="u2307-4.png" crc="4292158732" ref="promociones"/>
+    <file name="u2430-4.png" crc="3997468068" ref="promociones"/>
+    <file name="u1883-6-a.png" crc="3789432442" ref="promociones"/>
+    <file name="u1884-6.png" crc="54453268" ref="promociones"/>
+    <file name="u1885-6.png" crc="462960948" ref="promociones"/>
+    <file name="u1366-35.png" crc="258113645" ref="plan-diabetes"/>
+    <file name="cedco13.jpg" crc="226388060" seo="true" ref="plan-diabetes"/>
+    <file name="u1400-7.png" crc="496209371" ref="plan-diabetes"/>
+    <file name="u1395-4.png" crc="4153043432" ref="plan-diabetes"/>
+    <file name="u2433-4-a.png" crc="3997468068" ref="plan-diabetes"/>
+    <file name="u1982-6.png" crc="3789432442" ref="plan-diabetes"/>
+    <file name="u1983-6.png" crc="54453268" ref="plan-diabetes"/>
+    <file name="u1984-6.png" crc="462960948" ref="plan-diabetes"/>
+    <file name="cedco11.jpg" crc="267154167" seo="true" ref="medicina-ocupacional"/>
+    <file name="u1258-10.png" crc="480128126" ref="medicina-ocupacional"/>
+    <file name="u1602-4.png" crc="4153043432" ref="medicina-ocupacional"/>
+    <file name="u1248-46.png" crc="3937275760" ref="medicina-ocupacional"/>
+    <file name="u2436-4.png" crc="3997468068" ref="medicina-ocupacional"/>
+    <file name="u2006-6.png" crc="3789432442" ref="medicina-ocupacional"/>
+    <file name="u2007-6-a.png" crc="54453268" ref="medicina-ocupacional"/>
+    <file name="u2008-6.png" crc="462960948" ref="medicina-ocupacional"/>
+    <file name="u2485-7.png" crc="3768414060" ref="gracias"/>
+    <file name="prevenir-es-mejor.jpg" crc="224035513" seo="true" ref="gracias"/>
+  </folder>
+  <file name="index.html" crc="528617969" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="especialidades.html" crc="4183473811" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="servicios.html" crc="330537976" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="contacto.html" crc="4012386723" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="promociones.html" crc="529084983" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="plan-diabetes.html" crc="435680902" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="medicina-ocupacional.html" crc="215291035" seo="true" mt="1459457166017" redirect="true"/>
+  <file name="gracias.html" crc="160905097" seo="true" mt="1459457166017" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Inicio" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Especialidades" filename="especialidades.html" muse_href="page:U105" master="U72">
+        <breakpoint uid="U95" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Servicios" filename="servicios.html" muse_href="page:U117" master="U72">
+        <breakpoint uid="U107" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Contacto" filename="contacto.html" muse_href="page:U129" master="U72">
+        <breakpoint uid="U119" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Promociones" filename="promociones.html" muse_href="page:U1021" master="U72">
+        <breakpoint uid="U1011" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Plan Diabetes" filename="plan-diabetes.html" muse_href="page:U1054" master="U72">
+        <breakpoint uid="U1044" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Medicina Ocupacional" filename="medicina-ocupacional.html" muse_href="page:U1087" master="U72">
+        <breakpoint uid="U1077" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="GRACIAS" filename="gracias.html" muse_href="page:U2453" master="U72">
+        <breakpoint uid="U2443" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
